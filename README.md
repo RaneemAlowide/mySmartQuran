@@ -1,6 +1,6 @@
 # mysmartquran
 
-A new Flutter project.
+A new Flutter project created by me , this is a smart quran project that users can use to help them learn quran easy.
 
 ## Getting Started
 
