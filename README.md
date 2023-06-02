@@ -2,8 +2,6 @@
 
 A new Flutter project created by me , this is a smart quran project that users can use to help them learn quran easy.
 
-![Uploading Screenshot 2023-06-02 at 4.52.26 PM.png…]()
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
